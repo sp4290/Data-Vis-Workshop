@@ -1,0 +1,1 @@
+Observable Framework combines markdown narrative with live JavaScript data visualization loaders and static builds so you can ship dashboards that feel like notebooks without running a notebook server on every page load students can iterate locally with npm run dev then publish to GitHub Pages when the assignment is ready for review.
